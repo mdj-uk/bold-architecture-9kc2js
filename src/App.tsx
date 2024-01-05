@@ -16,6 +16,7 @@ function App() {
         </a>
       </div>
       <p>this is cool</p>
+      <p>This is now a repo!</p>
       <h1>React + Vite</h1>
       <h2>On CodeSandbox!!!</h2>
       <div className="card">
