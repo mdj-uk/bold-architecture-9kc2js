@@ -17,6 +17,9 @@ function App() {
       </div>
       <p>this is cool</p>
       <p>This is now a repo!</p>
+      <p>Editing from vscode desktop remote session</p>
+      <p>Editing from codesandbox - or am i?</p>
+      <p>stuff</p>
       <h1>React + Vite</h1>
       <h2>On CodeSandbox!!!</h2>
       <div className="card">
